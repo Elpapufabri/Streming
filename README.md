@@ -1,2 +1,0 @@
-# Streming
-Servicios streaming
